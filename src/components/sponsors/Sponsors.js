@@ -2,7 +2,7 @@ import React from 'react'
 import SponsorBP from './SponsorBP';
 import './Sponsors.css';
 import Organiser from '../organiser/Organiser';
-import logo from '../../images/hackslash.svg'
+import logo from '../../images/hacknitp.png';
 import logo1 from '../../images/gdsc.png'
 
 const Sponsors = () => {
